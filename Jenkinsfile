@@ -6,7 +6,7 @@ node {
     def dockerhubaccountid = "saiy255"
 	
     // reference to maven
-    // ** NOTE: This 'maven-3.5.2' Maven tool must be configured in the Jenkins Global Configuration.   
+    // ** NOTE: This 'maven-3.8.6' Maven tool must be configured in the Jenkins Global Configuration.   
     def mvnHome = tool 'maven-3.8.6'
 
     // holds reference to docker image
