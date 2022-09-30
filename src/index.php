@@ -46,5 +46,5 @@ class MyClass
 }
 
 $mc = new MyClass();
-$mc->set_name('Alex');
+$mc->set_name('Sai');
 echo $mc->get_name();
